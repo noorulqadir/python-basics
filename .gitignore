@@ -2,6 +2,6 @@ __pycache__/
 *.pyc
 expenses.txt
 notes.txt
-tasks.txt
+task.txt
 .venv/
 .vscode/
