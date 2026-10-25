@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+expenses.txt
+notes.txt
+tasks.txt
+.venv/
+.vscode/
